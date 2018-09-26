@@ -1,0 +1,912 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="tier no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>
+<html class="tier no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>
+<html class="tier no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="tier no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head id="ctl00_Head1"><meta charset="utf-8" /><title>
+	News - Monmouth University
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="author" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<!-- Start Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" /><link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32" /><link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16" /><link rel="manifest" href="/favicon/manifest.json" /><link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#002855" /><link rel="shortcut icon" href="/favicon/favicon.ico" /><meta name="msapplication-config" content="/favicon/browserconfig.xml" /><meta name="theme-color" content="#002855" />
+	<!-- End Favicon -->
+
+    <!-- google social profiles structured data -->
+    
+    <script type="application/ld+json">
+        {
+            "@context" : "http://schema.org",
+            "@type" : "Organization",
+            "name" : "Monmouth University",
+            "url" : "https://www.monmouth.edu",
+			"logo": "https://www.monmouth.edu/EduEvo/img/mu-spirit-mark.jpg",
+            "sameAs" : [
+                "https://www.facebook.com/MonmouthUniversity",
+                "https://www.twitter.com/monmouthu",
+                "https://www.instagram.com/monmouthuniversity",
+                "https://www.youtube.com/user/monmouthuniversity"
+            ]
+        }
+    </script>
+    <!-- end google socila profiles structured data -->
+
+    <script type="text/javascript" src="//use.typekit.net/qaz5zoj.js"></script>
+    <script type="text/javascript">
+        try {
+            Typekit.load();
+        } catch (e) {
+            console.error(e);
+        }
+    </script>
+
+    <script src="/ui/scripts/libs/modernizr/modernizr-2.6.2-custom.js"></script>
+
+    <link rel="stylesheet" href="/ui/css/bootstrap.css" type="text/css" /><link rel="stylesheet" href="/EduEvo/libs/font-awesome-4.6.3/css/font-awesome.min.css" /><link rel="stylesheet" href="/EduEvo/css/eduEvo.css" type="text/css" /><link rel="stylesheet" href="/EduEvo/css/eduEvo.common.css" type="text/css" /><link rel="stylesheet" href="/EduEvo/libs/bootstrap/bootstrap.carousel.css" /><link rel="stylesheet" href="/EduEvo/libs/select2/select2.min.css" />
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1543678-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <script data-main="/scripts/lazysizes.min.js" src="/scripts/lazysizes.min.js"></script>
+    <script type="text/javascript">
+    setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0055/2985.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+    </script>
+    <!-- Hotjar Tracking Code for www.monmouth.edu -->
+    <!--
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:426339,hjsv:5};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>    
+    -->
+</head>  
+<body>
+    
+    <form method="post" action="/news/" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQwMDkwMDU1NWRkUwGhQG2IMbsOtrnsw22ovoYyLYbXUmQHvxKBmGvDcr4=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D32BB407" />
+</div>
+        
+
+
+<header id="mainHeader" class="stuck">
+
+    <div class="mobileMenuBTN">
+		<div class="hamburger">
+			<div class="navbar top"></div>
+			<div class="navbar mid"></div>
+			<div class="navbar btm"></div>
+		</div>
+		<img class="logo logo-spirit-mark" src="/EduEvo/img/mu-spirit-mark.jpg" alt="mu-spirit-mark" width="65" height="44" />
+	</div>
+	
+	<div class="mobileNavCover"></div>
+	
+	<div class="globalNavContainer">
+		
+		<a href="/">
+			<img class="logo logo-full" src="/EduEvo/img/mu-logo-full-3x.png" alt="Monmouth University" width="110" height="66" />
+		</a>
+
+		<nav id="globalNav">
+            <ul class="mainNav">
+                <li class="homeLink"><a class="mainNavLink" href="/">Home</a>
+                
+                <li>
+                    <a class="mainNavLink track" href="/university/about-overview.aspx" data-track-label="About Us" data-track-category="mainNav">About Us</a>
+                    <div class="subNav row-fluid">
+                        
+                                <ul class="col-xs-3 span3">
+                                    
+                                 
+                                <li><a href="/InsideMonmouth/Default.aspx" class="track" data-track-label="Inside Monmouth" data-track-category="subNav">Inside Monmouth</a></li>
+                            
+                                 
+                                <li><a href="/university/why-monmouth-why-now.aspx" class="track" data-track-label="Why Monmouth, Why Now" data-track-category="subNav">Why Monmouth, Why Now</a></li>
+                            
+                                 
+                                <li><a href="/university/leadership.aspx" class="track" data-track-label="Leadership" data-track-category="subNav">Leadership</a></li>
+                            
+                                 
+                                <li><a href="/Diversity-and-Inclusion/" class="track" data-track-label="Diversity and Inclusion" data-track-category="subNav">Diversity and Inclusion</a></li>
+                            
+                                </ul><ul class="col-xs-3 span3"> 
+                                <li><a href="/university/our-campus-and-location.aspx" class="track" data-track-label="Our Campus + Location" data-track-category="subNav">Our Campus + Location</a></li>
+                            
+                                 
+                                <li><a href="/university/centers-of-distinction.aspx" class="track" data-track-label="Centers of Distinction" data-track-category="subNav">Centers of Distinction</a></li>
+                            
+                                 
+                                <li><a href="/university/give-and-support.aspx" class="track" data-track-label="Give + Support" data-track-category="subNav">Give + Support</a></li>
+                            
+                                 
+                                <li><a href="/university/news-and-events.aspx" class="track" data-track-label="News + Events" data-track-category="subNav">News + Events</a></li>
+                            
+                                </ul><ul class="col-xs-3 span3"> 
+                                <li><a href="/university/connect-with-monmouth.aspx" class="track" data-track-label="Connect with Monmouth" data-track-category="subNav">Connect with Monmouth</a></li>
+                            
+                                 
+                                <li><a href="/strategicplan/" class="track" data-track-label="Strategic Planning" data-track-category="subNav">Strategic Planning</a></li>
+                            
+                                </ul>
+                             
+                        <div class="mainNavImage col-md-5 span5">
+                            <img src="/uploadedImages/Content/University/Main-Nav-Dropdown-About.png" alt=""  role="presentation" class="mainNavImageFile" width="555" height="280" />
+                        </div>
+                    </div>                   
+                </li>
+                
+                <li>
+                    <a class="mainNavLink track" href="/university/academics.aspx" data-track-label="Academics" data-track-category="mainNav">Academics</a>
+                    <div class="subNav row-fluid">
+                        
+                                <ul class="col-xs-3 span3">
+                                    
+                                 
+                                <li><a href="/university/undergraduate-programs.aspx" class="track" data-track-label="Undergraduate Programs of Study" data-track-category="subNav">Undergraduate Programs of Study</a></li>
+                            
+                                 
+                                <li><a href="/graduate/programs-of-study/" class="track" data-track-label="Graduate Programs of Study" data-track-category="subNav">Graduate Programs of Study</a></li>
+                            
+                                 
+                                <li><a href="/university/departments-and-schools.aspx" class="track" data-track-label="Departments + Schools" data-track-category="subNav">Departments + Schools</a></li>
+                            
+                                 
+                                <li><a href="/university/academic-success-services.aspx" class="track" data-track-label="Center for Student Success" data-track-category="subNav">Center for Student Success</a></li>
+                            
+                                </ul><ul class="col-xs-3 span3"> 
+                                <li><a href="/university/learning-and-outcomes.aspx" class="track" data-track-label="Learning + Outcomes" data-track-category="subNav">Learning + Outcomes</a></li>
+                            
+                                 
+                                <li><a href="/university/study-abroad-and-global-learning.aspx" class="track" data-track-label="Global Learning + Study Abroad" data-track-category="subNav">Global Learning + Study Abroad</a></li>
+                            
+                                 
+                                <li><a href="/university/general-education.aspx" class="track" data-track-label="General Education" data-track-category="subNav">General Education</a></li>
+                            
+                                 
+                                <li><a href="/university/learning-at-monmouth.aspx" class="track" data-track-label="Learning at Monmouth" data-track-category="subNav">Learning at Monmouth</a></li>
+                            
+                                </ul><ul class="col-xs-3 span3"> 
+                                <li><a href="/university/research-at-monmouth.aspx" class="track" data-track-label="Research at Monmouth" data-track-category="subNav">Research at Monmouth</a></li>
+                            
+                                 
+                                <li><a href="/university/registration-and-records.aspx" class="track" data-track-label="Office of the Registrar" data-track-category="subNav">Office of the Registrar</a></li>
+                            
+                                 
+                                <li><a href="/university/experiential-education.aspx" class="track" data-track-label="Experiential Education" data-track-category="subNav">Experiential Education</a></li>
+                            
+                                 
+                                <li><a href="/strategicplan/" class="track" data-track-label="Strategic Planning" data-track-category="subNav">Strategic Planning</a></li>
+                            
+                                </ul>
+                             
+                        <div class="mainNavImage col-md-5 span5">
+                            <img src="/uploadedImages/Content/University/Main-Nav-Dropdown-Academics.png" alt=""  role="presentation" class="mainNavImageFile" width="555" height="280" />
+                        </div>
+                    </div>                   
+                </li>
+                
+                <li>
+                    <a class="mainNavLink track" href="/university/admission.aspx" data-track-label="Admission" data-track-category="mainNav">Admission</a>
+                    <div class="subNav row-fluid">
+                        
+                                <ul class="col-xs-3 span3">
+                                    
+                                 
+                                <li><a href="/university/undergraduate.aspx" class="track" data-track-label="Undergraduate" data-track-category="subNav">Undergraduate</a></li>
+                            
+                                 
+                                <li><a href="/graduate/" class="track" data-track-label="Graduate" data-track-category="subNav">Graduate</a></li>
+                            
+                                 
+                                <li><a href="/university/admission/international-students.aspx" class="track" data-track-label="International Students" data-track-category="subNav">International Students</a></li>
+                            
+                                 
+                                <li><a href="/university/cost-and-financial-aid.aspx" class="track" data-track-label="Cost + Financial Aid" data-track-category="subNav">Cost + Financial Aid</a></li>
+                            
+                                </ul><ul class="col-xs-3 span3"> 
+                                <li><a href="/university/summer-at-monmouth.aspx" class="track" data-track-label="Summer at Monmouth" data-track-category="subNav">Summer at Monmouth</a></li>
+                            
+                                 
+                                <li><a href="/university/military-students.aspx" class="track" data-track-label="Military Resources" data-track-category="subNav">Military Resources</a></li>
+                            
+                                 
+                                <li><a href="/university/apply-now.aspx" class="track" data-track-label="Apply Now" data-track-category="subNav">Apply Now</a></li>
+                            
+                                </ul>
+                             
+                        <div class="mainNavImage col-md-5 span5">
+                            <img src="/uploadedImages/Content/University/Main-Nav-Dropdown-Admissions.png" alt=""  role="presentation" class="mainNavImageFile" width="555" height="280" />
+                        </div>
+                    </div>                   
+                </li>
+                
+                <li>
+                    <a class="mainNavLink track" href="/university/student-life.aspx" data-track-label="Student Life" data-track-category="mainNav">Student Life</a>
+                    <div class="subNav row-fluid">
+                        
+                                <ul class="col-xs-3 span3">
+                                    
+                                 
+                                <li><a href="/university/student-center.aspx" class="track" data-track-label="Student Center" data-track-category="subNav">Student Center</a></li>
+                            
+                                 
+                                <li><a href="/university/residential-life.aspx" class="track" data-track-label="Residential Life" data-track-category="subNav">Residential Life</a></li>
+                            
+                                 
+                                <li><a href="/university/student-activities.aspx" class="track" data-track-label="Student Activities" data-track-category="subNav">Student Activities</a></li>
+                            
+                                 
+                                <li><a href="/university/fraternity-and-sorority-life.aspx" class="track" data-track-label="Fraternity + Sorority Life" data-track-category="subNav">Fraternity + Sorority Life</a></li>
+                            
+                                </ul><ul class="col-xs-3 span3"> 
+                                <li><a href="/studentlife.aspx" class="track" data-track-label="The Division of Student Life" data-track-category="subNav">The Division of Student Life</a></li>
+                            
+                                 
+                                <li><a href="/university/campus-safety.aspx" class="track" data-track-label="Campus Safety" data-track-category="subNav">Campus Safety</a></li>
+                            
+                                 
+                                <li><a href="/commencement" class="track" data-track-label="Commencement" data-track-category="subNav">Commencement</a></li>
+                            
+                                 
+                                <li><a href="/university/stand-up-and-be-counted.aspx" class="track" data-track-label="Stand Up and Be Counted" data-track-category="subNav">Stand Up and Be Counted</a></li>
+                            
+                                </ul><ul class="col-xs-3 span3"> 
+                                <li><a href="/university/dining-information.aspx" class="track" data-track-label="Dining Information" data-track-category="subNav">Dining Information</a></li>
+                            
+                                </ul>
+                             
+                        <div class="mainNavImage col-md-5 span5">
+                            <img src="/uploadedImages/Content/University/Main-Nav-Dropdowns-Student-Life.png" alt=""  role="presentation" class="mainNavImageFile" width="555" height="280" />
+                        </div>
+                    </div>                   
+                </li>
+                
+                <li>
+                    <a class="mainNavLink track" href="http://www.monmouthhawks.com/" data-track-label="Athletics" data-track-category="mainNav">Athletics</a>
+                    <div class="subNav row-fluid">
+                        
+                                <ul class="col-xs-3 span3">
+                                    
+                                 
+                                <li><a href="http://www.monmouthhawks.com/" class="track" data-track-label="Athletics Homepage" data-track-category="subNav">Athletics Homepage</a></li>
+                            
+                                 
+                                <li><a href="/scheduleds-and-scores.aspx" class="track" data-track-label="Schedules and Scores" data-track-category="subNav">Schedules and Scores</a></li>
+                            
+                                 
+                                <li><a href="/OceanFirst-Bank-Center/" class="track" data-track-label="OceanFirst Bank Center" data-track-category="subNav">OceanFirst Bank Center</a></li>
+                            
+                                 
+                                <li><a href="http://purchase.tickets.com/buy/TicketPurchase?orgid=45609&agency=MNMV_PLAGENCY&schedule=list&DB_OEM_ID=14300" class="track" data-track-label="Buy Tickets" data-track-category="subNav">Buy Tickets</a></li>
+                            
+                                </ul><ul class="col-xs-3 span3"> 
+                                <li><a href="/recreation-and-intramurals.aspx" class="track" data-track-label="Club Sports + Intramurals" data-track-category="subNav">Club Sports + Intramurals</a></li>
+                            
+                                </ul>
+                             
+                        <div class="mainNavImage col-md-5 span5">
+                            <img src="/uploadedImages/Content/University/Main-Nav-Dropdown-Athletics.png" alt=""  role="presentation" class="mainNavImageFile" width="555" height="280" />
+                        </div>
+                    </div>                   
+                </li>
+                
+                <li>
+                    <a class="mainNavLink track" href="/university/visit.aspx" data-track-label="Visit" data-track-category="mainNav">Visit</a>
+                    <div class="subNav row-fluid">
+                        
+                                <ul class="col-xs-3 span3">
+                                    
+                                 
+                                <li><a href="/university/our-campus-and-location.aspx" class="track" data-track-label="Our Campus + Location" data-track-category="subNav">Our Campus + Location</a></li>
+                            
+                                 
+                                <li><a href="/university/schedule-a-visit.aspx" class="track" data-track-label="Schedule a Visit" data-track-category="subNav">Schedule a Visit</a></li>
+                            
+                                 
+                                <li><a href="/university/maps-and-directions.aspx" class="track" data-track-label="Campus Map + Directions" data-track-category="subNav">Campus Map + Directions</a></li>
+                            
+                                 
+                                <li><a href="/university/area-accommodations.aspx" class="track" data-track-label="Area Accommodations" data-track-category="subNav">Area Accommodations</a></li>
+                            
+                                </ul><ul class="col-xs-3 span3"> 
+                                <li><a href="/university/our-historic-buildings.aspx" class="track" data-track-label="Our Historic Buildings" data-track-category="subNav">Our Historic Buildings</a></li>
+                            
+                                </ul>
+                             
+                        <div class="mainNavImage col-md-5 span5">
+                            <img src="/uploadedImages/Content/University/Main-Nav-Dropdown-Visit.png" alt=""  role="presentation" class="mainNavImageFile" width="555" height="280" />
+                        </div>
+                    </div>                   
+                </li>
+                
+                <li>
+                    <a class="mainNavLink track" href="/university/apply-now.aspx" data-track-label="Apply" data-track-category="mainNav">Apply</a>
+                    <div class="subNav row-fluid">
+                         
+                        
+                    </div>                   
+                </li>
+                
+                <li>
+                    <a class="mainNavLink track" href="/university/give-and-support.aspx" data-track-label="Give" data-track-category="mainNav">Give</a>
+                    <div class="subNav row-fluid">
+                         
+                        
+                    </div>                   
+                </li>
+                
+				<li id="searchToggle"><a class="mainNavLink" href="#"><i class="fa fa-search"></i></a></li>
+				<li id="searchBTN"><a class="mainNavLink" href="#"><i class="fa fa-search"></i></a></li>
+                <input id="searchInput" name="searchInput" autocomplete="off" aria-label="Search" />
+			</ul>
+		</nav>	
+
+        <a id="alertBTN">ALERT</a>
+
+		<nav id="resourcesNav">
+		<ul>
+            
+                    <li><a href="/university/alumni.aspx">Alumni</a></li>
+                
+                    <li><a href="/university/students/current-students.aspx">Current Students</a></li>
+                
+                    <li><a href="/university/parents-and-families.aspx">Parents + Families</a></li>
+                
+                    <li><a href="/university/faculty-and-staff.aspx">Faculty + Staff</a></li>
+                
+                    <li><a href="/university/visitors-and-community.aspx">Visitors + Community</a></li>
+                
+                    <li><a href="/university/for-media.aspx">For Media</a></li>
+                
+                    <li><a href="https://my.monmouth.edu/">myMU</a></li>
+                
+		</ul>
+		</nav>
+
+	</div>
+
+	<a class="resourcesBTN">
+		<div class="btnContainer">
+			<p class="active">Resources</p>
+			<p>Main Menu</p>
+			<div class="navbar top"></div>
+			<div class="navbar mid"></div>
+			<div class="navbar btm"><i class="fa fa-caret-right"></i></div>
+		</div>
+	</a>
+
+</header>
+
+<div class="headerSpacer"></div>
+<div class="alertSpacer"></div>
+<div class="navOverlay"></div>
+
+
+        
+
+        
+
+<section id="ne-listing" class="news-listing-page listing-page">
+    
+
+    <section class="listing-sort event-listing-sort row-fluid">
+        <h1 class="span9" >See News From 
+            <span class="inlineSelectBox">
+                <select class="listing-dropdown" name="date">
+                    <option value="All" selected="selected">All</option>
+                    <option value="Today">Today</option>
+                    <option value="ThisWeek">This Week</option>
+                    <option value="ThisMonth">This Month</option>
+                </select>
+            </span> in <span class="inlineSelectBox">
+                        <select class="listing-dropdown" name="category">
+                            <option>All</option>
+                            
+							    <option  value="32212254878">Research</option>
+
+							
+							    <option  value="32212254879">Giving Back</option>
+
+							
+							    <option  value="32212254880">MAC at Monmouth</option>
+
+							
+							    <option  value="32212254881">Community Service</option>
+
+							
+							    <option  value="32212254882">Experiential Education</option>
+
+							
+							    <option  value="32212254883">Study Abroad</option>
+
+							
+							    <option  value="32212254884">Center for Entrepreneurship</option>
+
+							
+							    <option  value="32212254885">Polling Institute</option>
+
+							
+							    <option  value="32212254886">Accomplished Alumni</option>
+
+							
+							    <option  value="32212254887">Academic Excellence</option>
+
+							
+							    <option  value="32212254888">Great Location</option>
+
+							
+							    <option  value="32212254889">Personalized Education</option>
+
+							
+							    <option  value="32212254890">Global Initiatives</option>
+
+							
+							    <option  value="32212254990">Center for the Arts</option>
+
+							
+							    <option  value="32212254993">Urban Coast Institute</option>
+
+							
+							    <option  value="40802189707">First Year Seminar</option>
+
+							
+							    <option  value="40802189841">Psychology Department</option>
+
+							
+							    <option  value="40802190126">Athletics</option>
+
+							
+							    <option  value="40802190176">Kislak Real Estate Institute</option>
+
+							
+							    <option  value="40802190177">President</option>
+
+							
+							    <option  value="40802190180">Diversity and Inclusion</option>
+
+							
+							    <option  value="40802190308">Do not show on the Homepage or News Page</option>
+
+							</select></span></h1>
+        <div class="span5" style="
+            text-align: right;
+            font-size: 21px;
+            font-family: proxima-nova,sans-serif;
+            line-height: 1.6;
+        "><a href="/news/suggest">Suggest a News Story</a></div>
+
+    </section>
+
+    
+
+	<!--<hr class="divider">-->
+
+    <section class="listing-results cf">
+        
+		    <a href="/templates/NewsDetail.aspx?id=40802213524" class="item track" data-track-label="Monmouth Celebrates International Women’s Day" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Monmouth Celebrates International Women’s Day</h2>
+                            <p class="nw-date">March 09, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/eduevo/img/mu-placeholder.jpg" alt="Monmouth Celebrates International Women’s Day" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213525" class="item track" data-track-label="Nursing Dean Contributes Secrets to Career Success" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Nursing Dean Contributes Secrets to Career Success</h2>
+                            <p class="nw-date">March 09, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/eduevo/img/mu-placeholder.jpg" alt="Nursing Dean Contributes Secrets to Career Success" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213442" class="item track" data-track-label="Monmouth Dean’s Work Receives National Recognition" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Monmouth Dean’s Work Receives National Recognition</h2>
+                            <p class="nw-date">March 06, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/uploadedImages/Content/Global/News/List_Display_Images/KenWomack.png?n=6550" alt="Monmouth Dean’s Work Receives National Recognition" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213423" class="item track" data-track-label="Rutgers, Monmouth, Lehigh or Villanova: Who Will Win the CREICS Prize?" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Rutgers, Monmouth, Lehigh or Villanova: Who Will Win the CREICS Prize?</h2>
+                            <p class="nw-date">March 03, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/eduevo/img/mu-placeholder.jpg" alt="Rutgers, Monmouth, Lehigh or Villanova: Who Will Win the CREICS Prize?" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213345" class="item track" data-track-label="Monmouth University Announces Retirement of President Paul R. Brown" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Monmouth University Announces Retirement of President Paul R. Brown</h2>
+                            <p class="nw-date">February 28, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/uploadedImages/Content/Global/News/MU-seal_295.jpg" alt="Monmouth University Announces Retirement of President Paul R. Brown" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213274" class="item track" data-track-label="Grad Student Internship Project Gets Statewide Rollout" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Grad Student Internship Project Gets Statewide Rollout</h2>
+                            <p class="nw-date">February 21, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/eduevo/img/mu-placeholder.jpg" alt="Grad Student Internship Project Gets Statewide Rollout" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213225" class="item track" data-track-label="Monmouth Students Develop Winning Chatbot in Competition" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Monmouth Students Develop Winning Chatbot in Competition</h2>
+                            <p class="nw-date">February 15, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/uploadedImages/Content/Global/News/List_Display_Images/ChatbotWinners.jpg?n=5643" alt="Monmouth Students Develop Winning Chatbot in Competition" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213203" class="item track" data-track-label="School of Education Receives National Award for N.J. School Partnerships" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">School of Education Receives National Award for N.J. School Partnerships</h2>
+                            <p class="nw-date">February 13, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/eduevo/img/mu-placeholder.jpg" alt="School of Education Receives National Award for N.J. School Partnerships" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213207" class="item track" data-track-label="It's amazing, how many men and women are cheating" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">It's amazing, how many men and women are cheating</h2>
+                            <p class="nw-date">February 13, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/eduevo/img/mu-placeholder.jpg" alt="It's amazing, how many men and women are cheating" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213147" class="item track" data-track-label="7 Ways Students Can Save Money While in College" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">7 Ways Students Can Save Money While in College</h2>
+                            <p class="nw-date">February 06, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/uploadedImages/Content/Global/News/List_Display_Images/SaveForCollege.jpg?n=7221" alt="7 Ways Students Can Save Money While in College" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213146" class="item track" data-track-label="Monmouth Students Team Up to Improve Customer Service" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Monmouth Students Team Up to Improve Customer Service</h2>
+                            <p class="nw-date">February 06, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/uploadedImages/Content/Global/News/List_Display_Images/ChatbotAPNews.jpg?n=8161" alt="Monmouth Students Team Up to Improve Customer Service" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/news/Greason-named-Monmouth-Honors-School-Dean" class="item track" data-track-label="Greason Named Honors School Dean" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Greason Named Honors School Dean</h2>
+                            <p class="nw-date">February 02, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/uploadedImages/Content/Global/News/List_Display_Images/WalterGreason.png?n=7382" alt="Greason Named Honors School Dean" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213116" class="item track" data-track-label="Reinhart Offers Market Forecast" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Reinhart Offers Market Forecast</h2>
+                            <p class="nw-date">January 31, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/eduevo/img/mu-placeholder.jpg" alt="Reinhart Offers Market Forecast" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213103" class="item track" data-track-label="Chatbot Challenge Winners Selected Saturday, February 4" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Chatbot Challenge Winners Selected Saturday, February 4</h2>
+                            <p class="nw-date">January 30, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/eduevo/img/mu-placeholder.jpg" alt="Chatbot Challenge Winners Selected Saturday, February 4" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+		    <a href="/templates/NewsDetail.aspx?id=40802213105" class="item track" data-track-label="Statement on the Executive Order restricting immigration" data-track-category="NewsListingPage">
+                <div class="ne-eventContainer">	
+				    <div class="ne-tile ne-event">
+					    <article class="nw-info">
+						    <h2 class="nw-title">Statement on the Executive Order restricting immigration</h2>
+                            <p class="nw-date">January 30, 2017</p>
+                        </article>
+					    <div class="arrow white"></div>
+				    </div>	
+				    <div class="ne-tile ne-nonFeatureImg">
+					    <img src="/uploadedImages/Content/Global/News/seal.jpg" alt="Statement on the Executive Order restricting immigration" width="278" height="278" />
+				    </div>
+			    </div>
+		    </a>
+       
+    </section>
+
+
+
+    
+<nav class="listing-pagination">
+
+    <a class="previous " href="#">
+        <div class="ctaArrow">
+			<i class="fa fa-caret-left"></i>
+		</div>			    
+	</a>
+
+    <div class="pagination">
+        
+        <a class="active">1</a>
+        
+
+        <a href="?date=All&page=2">2</a>
+        
+
+        <a href="?date=All&page=3">3</a>
+        
+
+        <a href="?date=All&page=4">4</a>
+        
+
+        <a href="?date=All&page=5">5</a>
+        
+
+        <a href="?date=All&page=6">6</a>
+        
+
+        <a href="?date=All&page=7">7</a>
+        
+        <span>...</span>
+        
+        <a href="?date=All&page=84">84</a>
+        
+    </div>
+
+    <a class="next active" href="?date=All&page=2">
+        <div class="ctaArrow">
+			<i class="fa fa-caret-right"></i>
+		</div>			    		    
+	</a>
+
+    
+    <div class="more">
+        <a href="?date=All&page=2">Load More&nbsp;<i class="fa fa-caret-down"></i></a>
+    </div>
+    
+</nav>
+
+
+</section>
+
+        
+    <!-- /div.main-container -->
+
+
+        
+
+<footer id="mainFooter" >
+	<div class="footerContainer row-fluid">
+
+        <ul class="col-md-2 span2 linkCol">
+            
+             
+            <li><a href="/university/about-overview.aspx" class="track" data-track-label="About Us" data-track-category="footerNav">About Us</a></li>
+            
+             
+            <li><a href="/university/academics.aspx" class="track" data-track-label="Academics" data-track-category="footerNav">Academics</a></li>
+            
+             
+            <li><a href="/university/admission.aspx" class="track" data-track-label="Admission" data-track-category="footerNav">Admission</a></li>
+            
+             
+            <li><a href="/university/student-life.aspx" class="track" data-track-label="Student Life" data-track-category="footerNav">Student Life</a></li>
+            
+             
+            <li><a href="http://www.monmouthhawks.com/" class="track" data-track-label="Athletics" data-track-category="footerNav">Athletics</a></li>
+            
+             
+            <li><a href="/university/visit.aspx" class="track" data-track-label="Visit" data-track-category="footerNav">Visit</a></li>
+            
+             
+            <li><a href="/university/apply-now.aspx" class="track" data-track-label="Apply" data-track-category="footerNav">Apply</a></li>
+            
+             
+            <li><a href="/Submit_Your_Question_or_Comment.asp" class="track" data-track-label="Contact Us" data-track-category="footerNav">Contact Us</a></li>
+            
+            </ul><ul class="col-md-2 span2 linkCol"> 
+            <li><a href="/officesservices/" class="track" data-track-label="Offices and Services" data-track-category="footerNav">Offices and Services</a></li>
+            
+             
+            <li><a href="/events/" class="track" data-track-label="University Events" data-track-category="footerNav">University Events</a></li>
+            
+             
+            <li><a href="/news/" class="track" data-track-label="University News" data-track-category="footerNav">University News</a></li>
+            
+             
+            <li><a href="http://mubookstore.monmouth.edu/home.aspx" class="track" data-track-label="University Store" data-track-category="footerNav">University Store</a></li>
+            
+             
+            <li><a href="http://library.monmouth.edu" class="track" data-track-label="Library" data-track-category="footerNav">Library</a></li>
+            
+             
+            <li><a href="/strategicplan/" class="track" data-track-label="Strategic Planning" data-track-category="footerNav">Strategic Planning</a></li>
+            
+             
+            <li><a href="http://www2.monmouth.edu/teldir/" class="track" data-track-label="Campus Directory" data-track-category="footerNav">Campus Directory</a></li>
+            
+             
+            <li><a href="/university/maps-and-directions.aspx" class="track" data-track-label="Maps + Directions" data-track-category="footerNav">Maps + Directions</a></li>
+            
+        </ul>
+
+        <div class="col-md-4 span4 mainCol">
+			<img src="/EduEvo/img/mu-logo-footer.png" alt="mu-logo-footer" width="269" height="63" />
+			<ul class="footerSocial">
+				<li><a href="https://twitter.com/monmouthu" class="track" data-track-label="Twitter" data-track-category="footerSocial"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="https://instagram.com/monmouthuniversity" class="track" data-track-label="Instagram" data-track-category="footerSocial"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="https://www.youtube.com/user/monmouthuniversity" class="track" data-track-label="Youtube" data-track-category="footerSocial"><i class="fa fa-youtube-play"></i></a></li>
+                <li><a href="https://www.facebook.com/MonmouthUniversity" class="track" data-track-label="Facebook" data-track-category="footerSocial"><i class="fa fa-facebook-official"></i></a></li>
+				<li><a href="https://www.snapchat.com/add/monmouthu" class="track" data-track-label="Snapchat" data-track-category="footerSocial"><i class="fa fa-snapchat-ghost"></i></a></li>
+				<li><a href="https://www.linkedin.com/edu/school?id=18861" class="track" data-track-label="LinkedIn" data-track-category="footerSocial"><i class="fa fa-linkedin-square"></i></a></li>
+			</ul>
+			<address class="address">
+				<p>400 Cedar Avenue</p>
+				<p>West Long Branch, NJ 07764</p>
+				<p>732.571.3400</p>
+			</address>
+		</div>
+
+		<div class="col-md-4 span4 visitCol">
+			<h3>Schedule a Visit</h3>
+			<p>Tours and information sessions are held year-round, so come out to see our beautiful and historic campus</p>
+			<a href="/university/schedule-a-visit.aspx" class="btn track" data-track-label="Visit MU" data-track-category="footerVisit">Visit MU</a>
+		</div>
+		
+		<div class="copyright">&copy; 2017 Monmouth University</div>
+		
+	</div>	
+</footer>	
+        
+
+
+
+    </form>
+
+    <!-- This should only be included on the pages that need it
+        <script src="https://www.youvisit.com/tour/Embed/js2"></script>
+    -->
+
+    <!-- Why is this here? we dont use the siteimprove analytics
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        (function () {
+            var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+            sz.src = '//us2.siteimprove.com/js/siteanalyze_66356679.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+        /*]]>*/
+    </script>
+    -->
+    <script data-main="/EduEvo/scripts/eduEvo.load.js" src="/ui/scripts/libs/require/require.js"></script>
+
+    
+    
+  </body>
+</html>
